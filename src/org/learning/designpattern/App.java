@@ -46,6 +46,7 @@ public class App {
                     break;
                 default:
                     System.out.println("Please enter valid options between 1 to 4.");
+                    status = false;
                     break;
             }
         }
