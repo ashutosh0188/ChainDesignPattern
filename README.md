@@ -7,7 +7,8 @@ Here order for counting currency of different types currency has taken in to con
 highest currency to lowest currency while withdrawing money. 
 So to cater each request with validating available cash in the ATM machine and user requirement.
 
-Default balance for customer is 30000
+Default balance for customer is 30000.
+Default currency is 50 for each in ATM Machine.
 
 Please edit/download this file to see/check output nicely.
 
@@ -33,8 +34,8 @@ Please enter your option:
 Please enter amount to withdraw:
 75000
 -----------------------
-2000*37=74000
-1000*1=1000
+2000X37=74000
+1000X1=1000
 -----------------------
 TOTAL=75000
 Available balance: 35000
@@ -50,8 +51,8 @@ Please enter your option:
 Please enter amount to withdraw:
 25000
 -----------------------
-2000*12=24000
-1000*1=1000
+2000X12=24000
+1000X1=1000
 -----------------------
 TOTAL=25000
 Available balance: 10000
@@ -67,8 +68,8 @@ Please enter your option:
 Please enter amount to withdraw:
 2200
 -----------------------
-2000*1=2000
-200*1=200
+2000X1=2000
+200X1=200
 -----------------------
 TOTAL=2200
 Available balance: 7800
@@ -84,9 +85,9 @@ Please enter your option:
 Please enter amount to withdraw:
 800
 -----------------------
-500*1=500
-200*1=200
-100*1=100
+500X1=500
+200X1=200
+100X1=100
 -----------------------
 TOTAL=800
 Available balance: 7000
@@ -102,7 +103,7 @@ Please enter your option:
 Please enter amount to withdraw:
 6000
 -----------------------
-1000*6=6000
+1000X6=6000
 -----------------------
 TOTAL=6000
 Available balance: 1000
@@ -139,8 +140,8 @@ Please enter your option:
 Please enter amount to withdraw:
 50000
 -----------------------
-1000*42=42000
-500*16=8000
+1000X42=42000
+500X16=8000
 -----------------------
 TOTAL=50000
 Available balance: 1000
@@ -179,9 +180,9 @@ Please enter your option:
 Please enter amount to withdraw:
 30500
 -----------------------
-500*33=16500
-200*48=9600
-100*44=4400
+500X33=16500
+200X48=9600
+100X44=4400
 -----------------------
 TOTAL=30500
 Available balance: 15500
@@ -235,7 +236,7 @@ Please enter your option:
 Please enter amount to withdraw:
 500
 -----------------------
-100*5=500
+100X5=500
 -----------------------
 TOTAL=500
 Available balance: 15000
