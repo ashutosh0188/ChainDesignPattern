@@ -9,6 +9,8 @@ So to cater each request with validating available cash in the ATM machine and u
 
 Default balance for customer is 30000
 
+Please edit/download this file to see/check output nicely.
+
 ************ATM Cash Dispenser Machine*************
 Deposit: 1
 Withdraw: 2
